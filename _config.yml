@@ -1,2 +1,3 @@
 name: Alexis Langlois-Rémillard
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
