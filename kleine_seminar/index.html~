@@ -21,14 +21,14 @@ title: Kleine seminar
 	
 	<p>
 		We hope to run the seminar weekly for each speaker with possible breaks in between. The current location is <strong>Leslokaal 3.1 S9</strong>,
-		the specific date and time is still under review.
+		the specific date and time are still under review.
 	</p>
 	
-	<h4>Next meeting Wednesday 14h30-16h00 3.1 S9 on Affine Hecke algebras. The presenter is Hadewijch De Clercq.</h4>
+	<h4>Next meeting Tuesday 13h30-16h00 3.1 S9 on (Double) Affine Hecke algebras. The presenter is Hadewijch De Clercq.</h4>
 	
 	<p>
 		The topic of my session will be affine and double affine Hecke algebras.
-		More precisely, in this lecture I will explain where those tedious AHA-relations come from, using affine root systems.
+		
 		This will help me to introduce DAHAs in my second lecture.
 		The main resource for these two talks will be the lecture notes on affine Hecke algebras by Seth Shelley-Abrahamson, a former student of Pavel Etingof, available at <a href="http://math.mit.edu/~sethsa/talk_notes/reminder_on_affine_hecke_algebras.pdf">http://math.mit.edu/~sethsa/talk_notes/reminder_on_affine_hecke_algebras.pdf</a>.
 		For more details on the matter, I refer to Macdonald's book "Affine Hecke algebras and orthogonal polynomials" (I will bring a copy on Wednesday for the interested) and Kirillov's "Lectures on the affine Hecke algebras and Macdonald's conjectures", see <a href="https://arxiv.org/abs/math/9501219">arxiv.org/abs/math/9501219</a>.
@@ -54,6 +54,7 @@ title: Kleine seminar
 	
 	<h4>Past meetings</h4>
 		<u1>
+			<li>Wednesday January 15th, Hadewijch De Clercq presented preliminaries on affine root systems and gave the construction of AHA</li>
 			<li>Thursday January 09th, Roy Oste presented the construction of DAHA and introduced all the in between construction pertaining to this.</li>			
 			<li>Tuesday December 10th, Asmus Bisbo reviewed some of the interesting results in the fourth chapter of Mathas.</li>			
 			<li>Wednesday December 4th, Wouter van de Vijver finished section 3.4 giving a characterization of simple standard modules of the Iwahori-Hecke algebra.</li>			
@@ -71,6 +72,8 @@ title: Kleine seminar
 		</u1>
 	
 <!-- 	
+
+		More precisely, in this lecture I will explain where those tedious AHA-relations come from, using affine root systems.
 		<p>
 		In this final presentation on Mathas's book, Asmus will review with us the fourth chapter on q-Schur algebras going over the definition, the link with 
 		Iwahori-Hecke algebras and maybe a bit on the difference in combinatorics of Young tableaux between the two.
