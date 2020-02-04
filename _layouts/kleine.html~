@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<script type="text/x-mathjax-config">
+  				MathJax.Hub.Config({
+    				tex2jax: {
+      				inlineMath: [['$', '$']],
+      				displayMath: [['$$', '$$']],
+      				processEscapes: true
+    				}
+  				});
+			</script>
+			<script
+  			type="text/javascript"
+  			charset="utf-8"
+  			src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+			</script>
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+		        	<li><a href="/kleine_seminar">Kleine seminar</a></li>
+					<li><a href="/kleine_seminar/members">Current members</a></li>
+					<li><a href="/kleine_seminar/notes/hecke_notes_F2019.pdf">Notes</a></li> 
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li>Alexis Langlois-Rémillard</li>
+					<li><a href="mailto:alexis.langloisremillard@ugent.be">alexis.langloisremillard@ugent.be</a></li>
+	        		<li><a href="https://github.com/AlexisL-R">github.com/AlexisL-R</a></li>
+					<li><a href="https://alexisl-r.github.io">alexisl-r.github.io</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
