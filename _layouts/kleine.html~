@@ -24,7 +24,8 @@
 	    		<ul>
 		        	<li><a href="/kleine_seminar">Kleine seminar</a></li>
 					<li><a href="/kleine_seminar/members">Current members</a></li>
-					<li><a href="/kleine_seminar/notes/hecke_notes_F2019.pdf">Notes</a></li> 
+					<li><a href="/kleine_seminar/notes/hecke_notes_F2019.pdf">Notes</a></li>
+					<li><a href="/kleine_seminar/past">Past editions</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
