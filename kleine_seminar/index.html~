@@ -35,7 +35,7 @@ and Lie algebras. The prerequisites to the subject are:
 <u1>
   <li>Lauda, A., 2011. An introduction to diagrammatic algebra and categorified quantum sl(2) 7 (review of ideas contained in other of his article) </li>
   <li>Mazorchuk, V., 2011. Lectures on algebraic categorification. arXiv:1011.0144 [math].</li>
-  <li>Savage, A., 2019. String diagrams and categorification. arXiv:1806.06873 [math]. (Lecture notes from a mini course)</li>
+  <li>Savage, A., 2018. String diagrams and categorification. arXiv:1806.06873 [math]. (Lecture notes from a mini course)</li>
   <li>Savage, A., 2014. Introduction to categorification. arXiv:1401.6037 [math] (Lecture notes from a winter school)</li>
 </u1>
 <p>
@@ -55,16 +55,18 @@ and interesting articles include
 
 
 	
-		<h4>Next meeting Wednesday February 19th 10h 3.2 S9. Pivotal categories and string diagrams by Asmus Kj&#230;r Bisbo.</h4>
+		<h4>Next meeting Wednesday March 4th 10h 3.2 S9. Grothendieck rings and weak categorification by Paulien Jansen.</h4>
 	<p>
-		Pivotal categories and the necessary knowledge will be introduced on an example. 
-		The source is Savage, A. String diagrams and categorification <a href="https://arxiv.org/abs/1806.06873">arxiv:1806.06873</a>.
+		
+		The source is Savage, A. String diagrams and categorification <a href="https://arxiv.org/abs/1806.06873">arxiv:1806.06873</a>. section 5 and 
+		Savage Introduction to categorification. <a href="https://arXiv.org/abs/1401.6037">arXiv:1401.6037</a> chapter 2.
 	</p>
 	
 	
 	<h4>Past meeting this semester</h4>
 		<u1>
-			<li>19-02-2020 Wouter van der Vijver on monoidal categories and string diagrams.</li>
+		<li>19-02-2020 Pivotal categories and string diagrams by Asmus Kj&#230;r Bisbo.</li>
+		<li>12-02-2020 Wouter van der Vijver on monoidal categories and string diagrams.</li>
 		</u1>
 
 	
